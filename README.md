@@ -1,4 +1,4 @@
-This is for Leetcode problems
+This is for Leetcode problems.
 
 important patterns
 - Sliding window
